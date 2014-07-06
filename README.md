@@ -1,7 +1,8 @@
 # Lines of Disapproval
 
 Send the look of disapproval and other line emoticons from Kik.
-Using https://github.com/kikinteractive/starter-kit
+
+Using the [Kik Starter Kit](https://github.com/kikinteractive/starter-kit)
 
 ### Setup and running
   1. Navigate to the project directory and run these commands:
