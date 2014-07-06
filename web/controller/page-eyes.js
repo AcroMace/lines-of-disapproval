@@ -54,4 +54,14 @@ App.controller('page-eyes', function (page) {
 			title: '(✿◠‿◠)'
 		});
 	});
+	$(page).find('#button-eye-12').click(function () {
+		kik.send({
+			title: '( ._.)'
+		});
+	});
+	$(page).find('#button-eye-13').click(function () {
+		kik.send({
+			title: '(´д｀)'
+		});
+	});
 });
