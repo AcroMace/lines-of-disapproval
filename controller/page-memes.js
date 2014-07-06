@@ -13,19 +13,23 @@ App.controller('page-memes', function (page) {
 		kik.send({
 			title: '(•_•)'
 		});
+	});
+	$(page).find('#button-meme-4').click(function () {
 		kik.send({
 			title: '( •_•)>⌐■-■'
 		});
+	});
+	$(page).find('#button-meme-5').click(function () {
 		kik.send({
 			title: '(⌐■_■)'
 		});
 	});
-	$(page).find('#button-meme-4').click(function () {
+	$(page).find('#button-meme-6').click(function () {
 		kik.send({
 			title: '(╯°□°）╯︵ ┻━┻'
 		});
 	});
-	$(page).find('#button-meme-5').click(function () {
+	$(page).find('#button-meme-7').click(function () {
 		kik.send({
 			title: '┬─┬ノ( º _ ºノ)'
 		});
