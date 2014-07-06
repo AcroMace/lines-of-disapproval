@@ -11,12 +11,12 @@ App.controller('page-chars', function (page) {
 	});
 	$(page).find('#button-char-3').click(function () {
 		kik.send({
-			title: 'ʕ•ᴥ•ʔ'
+			title: '(V) (;,,;) (V)'
 		});
 	});
 	$(page).find('#button-char-4').click(function () {
 		kik.send({
-			title: '(V) (;,,;) (V)'
+			title: 'ᶘ ᵒᴥᵒᶅ'
 		});
 	});
 });

@@ -49,4 +49,9 @@ App.controller('page-eyes', function (page) {
 			title: '•_•'
 		});
 	});
+	$(page).find('#button-eye-11').click(function () {
+		kik.send({
+			title: '(✿◠‿◠)'
+		});
+	});
 });
