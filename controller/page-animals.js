@@ -9,4 +9,14 @@ App.controller('page-animals', function (page) {
 			title: 'ฅ^•ﻌ•^ฅ'
 		});
 	});
+	$(page).find('#button-animal-3').click(function () {
+		kik.send({
+			title: 'ᄽὁȍ ̪ őὀᄿ'
+		});
+	});
+	$(page).find('#button-animal-4').click(function () {
+		kik.send({
+			title: '^오^'
+		});
+	});
 });

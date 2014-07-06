@@ -59,4 +59,14 @@ App.controller('page-arms', function (page) {
 			title: 'ԅ(ˆ⌣ˆԅ)'
 		});
 	});
+	$(page).find('#button-arm-13').click(function () {
+		kik.send({
+			title: 'ლ(இ◡இლ)'
+		});
+	});
+	$(page).find('#button-arm-14').click(function () {
+		kik.send({
+			title: '(ι´Д｀)ﾉ'
+		});
+	});
 });
