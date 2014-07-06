@@ -7,10 +7,11 @@ CACHE MANIFEST
 //cdn.kik.com/kik/1.0.9/kik.js
 //cdn.kik.com/app/2.0.1/app.min.js
 /controller/home.js
-/controller/page-eyes.js
+/controller/page-faces.js
 /controller/page-arms.js
 /controller/page-chars.js
 /controller/page-animals.js
+/controller/page-memes.js
 /main.js
 
 NETWORK:

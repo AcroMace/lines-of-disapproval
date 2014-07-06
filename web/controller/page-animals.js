@@ -11,12 +11,22 @@ App.controller('page-animals', function (page) {
 	});
 	$(page).find('#button-animal-3').click(function () {
 		kik.send({
-			title: 'ᄽὁȍ ̪ őὀᄿ'
+			title: '^오^'
 		});
 	});
 	$(page).find('#button-animal-4').click(function () {
 		kik.send({
-			title: '^오^'
+			title: '(ᵔᴥᵔ)'
+		});
+	});
+	$(page).find('#button-animal-5').click(function () {
+		kik.send({
+			title: '(￣(エ)￣)'
+		});
+	});
+	$(page).find('#button-animal-6').click(function () {
+		kik.send({
+			title: '(○｀（●●）´○)ﾉ'
 		});
 	});
 });
