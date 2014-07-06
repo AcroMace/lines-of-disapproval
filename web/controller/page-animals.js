@@ -29,4 +29,19 @@ App.controller('page-animals', function (page) {
 			title: '(○｀（●●）´○)ﾉ'
 		});
 	});
+	$(page).find('#button-animal-7').click(function () {
+		kik.send({
+			title: '૮( ᵒ̌ૢཪᵒ̌ૢ )ა'
+		});
+	});
+	$(page).find('#button-animal-8').click(function () {
+		kik.send({
+			title: '⊂(・(ェ)・)⊃'
+		});
+	});
+	$(page).find('#button-animal-9').click(function () {
+		kik.send({
+			title: 'ʕ； •`ᴥ•´ʔ'
+		});
+	});
 });

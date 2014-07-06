@@ -119,4 +119,19 @@ App.controller('page-faces', function (page) {
 			title: '( ´_ゝ｀)'
 		});
 	});
+	$(page).find('#button-face-25').click(function () {
+		kik.send({
+			title: 'ఠ ͟ಠ'
+		});
+	});
+	$(page).find('#button-face-26').click(function () {
+		kik.send({
+			title: '๛∙᷅῞ॄ∙᷄'
+		});
+	});
+	$(page).find('#button-face-27').click(function () {
+		kik.send({
+			title: '(◞‸◟；)'
+		});
+	});
 });

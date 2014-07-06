@@ -65,4 +65,14 @@ App.controller('page-arms', function (page) {
 			title: '(屮ﾟДﾟ)屮'
 		});
 	});
+	$(page).find('#button-arm-14').click(function () {
+		kik.send({
+			title: '૮(ꂧ᷆⺫ꂧ᷇)ა'
+		});
+	});
+	$(page).find('#button-arm-15').click(function () {
+		kik.send({
+			title: 'ʅ(◔◡◔✿)ʃ'
+		});
+	});
 });
