@@ -1,1 +1,5 @@
-/* put stuff here */
+
+.app-list>li, .app-list>li.app-button {
+	color: black;
+	text-align: center;
+}
