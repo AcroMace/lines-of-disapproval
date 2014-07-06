@@ -1,12 +1,12 @@
 App.controller('page-arms', function (page) {
 	$(page).find('#button-arm-1').click(function () {
 		kik.send({
-			title: 'ᕕ( ᐛ )ᕗ'
+			title: '¯\\_(ツ)_/¯'
 		});
 	});
 	$(page).find('#button-arm-2').click(function () {
 		kik.send({
-			title: '¯\\_(ツ)_/¯'
+			title: 'ᕕ( ᐛ )ᕗ'
 		});
 	});
 	$(page).find('#button-arm-3').click(function () {
