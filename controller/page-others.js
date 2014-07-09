@@ -1,4 +1,4 @@
-App.controller('page-faces', function (page) {
+App.controller('page-others', function (page) {
 	$(page).find('#button-other-1').click(function () {
 		kik.send({
 			title: '(۶ૈ ᵒ̌ Дᵒ̌)۶ૈ=͟͟͞͞ ⌨'
